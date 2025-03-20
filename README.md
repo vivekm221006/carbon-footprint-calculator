@@ -21,6 +21,7 @@ An interactive, user-friendly desktop application built with Flet to calculate a
 ➡️ Responsive Layout: Supports window resizing with dynamic UI adjustments.
 
 
+
 📦 Saving & Loading Data :
 
 ➡️ Saved data is stored in footprint_data.json.
@@ -28,6 +29,19 @@ An interactive, user-friendly desktop application built with Flet to calculate a
 ➡️ Loading restores the last saved calculation for further use.
 
 ➡️ Data can be exported to a CSV file by clicking the Export CSV button.
+
+
+
+
+Prerequisites :
+
+Python: Version 3.8 or higher.
+
+Flet: Version 0.25.0 or higher (utilizes Colors and Icons enums).
+
+Feel free to fork the repository, make enhancements, and submit pull requests. Suggestions for updating emission factors or adding new features are always welcome!
+
+
 
 
 🔥 Potential Future Enhancements:
@@ -51,6 +65,9 @@ Comparison with global averages.
 Multilingual support.
 
 Theme switching.
+
+
+
 
 🐛 Troubleshooting:
 
